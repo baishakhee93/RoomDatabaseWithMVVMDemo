@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomDatabaseDemo</string>
+    <string-array name="Departmant">
+        <item>Accounts and Finance</item>
+        <item>HR</item>
+        <item>Sales and marketing (Business development)</item>
+        <item>Infrastructures</item>
+        <item>Research and development</item>
+        <item>Product development</item>
+        <item>IT services</item>
+        <item>Learning and development</item>
+    </string-array>
+</resources>
